@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1609780038 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"side_operations.h"
+	"Login.h"
+
+1609778972 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"Add_song.h"
+	"View_songs.h"
+	"Login.h"
+
+1609778977 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\menu.c
+	"menu.h"
+	"Add_song.h"
+	"View_songs.h"
+	"Delete_song.h"
+	"settings.h"
+	"Users.h"
+	"side_operations.h"
+
+1609779792 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\side_operations.h
+
+1609611230 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\settings.h
+	<stdio.h>
+	<stdlib.h>
+	"Memory_aloc.h"
+	"side_operations.h"
+	"Users.h"
+
+1609282897 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\memory_aloc.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1609282667 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\memory allocations.c
+	"Memory_aloc.h"
+
+1609623237 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\settings.c
+	"settings.h"
+
+1609282911 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\side_operations.c
+
+1609783795 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\add_song.c
+	"Add_song.h"
+
+1609623237 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\add_song.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"menu.h"
+	"Login.h"
+
+1609780355 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\update_filedata.c
+	"Update_filedata.h"
+
+1609424504 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\update_filedata.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1609783795 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\count_fdata.c
+	"Count_fdata.h"
+
+1609426881 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\count_fdata.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1609427826 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\view_songs.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"menu.h"
+
+1609685899 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\view_songs.c
+	"View_songs.h"
+
+1609429138 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\delete_song.c
+	"Delete_song.h"
+
+1609428986 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\delete_song.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"menu.h"
+
+1609778814 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\users.c
+	"Users.h"
+
+1609626903 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\users.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"Memory_aloc.h"
+	"menu.h"
+
+1609783435 source:d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\login.c
+	"Login.h"
+
+1609777275 d:\facultate\an1\sem1\computer programming(cp)\proiect varianta mea\proiect\login.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"Users.h"
+	"menu.h"
+
+1610016012 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\add_song.c
+	"Add_song.h"
+
+1610014606 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\add_song.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610003266 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\side_operations.h
+
+1610014612 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"Add_song.h"
+	"createplaylist.h"
+	"Login.h"
+	"Users.h"
+
+1610000860 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\view_songs.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"menu.h"
+
+1610014622 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\login.h
+	<stdio.h>
+	<stdlib.h>
+	"Users.h"
+	"menu.h"
+
+1610014634 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\users.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1610002756 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\memory_aloc.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1610001203 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\count_fdata.c
+	"Count_fdata.h"
+	"Memory_aloc.h"
+
+1610001351 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\count_fdata.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+	"Update_filedata.h"
+
+1610000860 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\delete_song.c
+	"Delete_song.h"
+
+1610001457 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\delete_song.h
+
+1610009990 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\login.c
+	"Login.h"
+
+1610004281 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610001434 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\memory allocations.c
+	"Memory_aloc.h"
+
+1610014931 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\menu.c
+	"menu.h"
+
+1609611230 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\settings.h
+	<stdio.h>
+	<stdlib.h>
+	"Memory_aloc.h"
+	"side_operations.h"
+	"Users.h"
+
+1610002138 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\settings.c
+	"settings.h"
+
+1610002138 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\side_operations.c
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1610001203 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\update_filedata.c
+	"Update_filedata.h"
+
+1610001351 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\update_filedata.h
+	<stdio.h>
+	<stdlib.h>
+	"side_operations.h"
+
+1610014040 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\users.c
+	"Users.h"
+
+1610000860 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\view_songs.c
+	"View_songs.h"
+
+1610014595 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\createplaylist.c
+	"createplaylist.h"
+
+1610014618 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\createplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1609961847 d:\prgramare\proiect cu noemi\proiect pointeri\proiect\view_playlists.h
+
+1610001203 source:d:\prgramare\proiect cu noemi\proiect pointeri\proiect\view_playlists.c
+	<stdio.h>
+	<string.h>
+	"side_operations.h"
+
+1610014595 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\createplaylist.c
+	"createplaylist.h"
+
+1610014618 d:\prgramare\proiect cu noemi\proiect pointeri\sputify\createplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1610014612 d:\prgramare\proiect cu noemi\proiect pointeri\sputify\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"Add_song.h"
+	"createplaylist.h"
+	"Login.h"
+	"Users.h"
+
+1610014606 d:\prgramare\proiect cu noemi\proiect pointeri\sputify\add_song.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610014622 d:\prgramare\proiect cu noemi\proiect pointeri\sputify\login.h
+	<stdio.h>
+	<stdlib.h>
+	"Users.h"
+	"menu.h"
+
+1610014634 d:\prgramare\proiect cu noemi\proiect pointeri\sputify\users.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1610009990 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\login.c
+	"Login.h"
+
+1610004281 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610014931 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\menu.c
+	"menu.h"
+
+1610014040 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\users.c
+	"Users.h"
+
+1610043177 source:d:\prgramare\proiect cu noemi\proiect pointeri\sputify\add_song.c
+	"Add_song.h"
+
+1610043177 source:c:\users\noemi\desktop\sputify\add_song.c
+	"Add_song.h"
+
+1610014606 c:\users\noemi\desktop\sputify\add_song.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610014612 c:\users\noemi\desktop\sputify\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"Add_song.h"
+	"createplaylist.h"
+	"Login.h"
+	"Users.h"
+
+1610014618 c:\users\noemi\desktop\sputify\createplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1610014622 c:\users\noemi\desktop\sputify\login.h
+	<stdio.h>
+	<stdlib.h>
+	"Users.h"
+	"menu.h"
+
+1610014634 c:\users\noemi\desktop\sputify\users.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1610014595 source:c:\users\noemi\desktop\sputify\createplaylist.c
+	"createplaylist.h"
+
+1610009990 source:c:\users\noemi\desktop\sputify\login.c
+	"Login.h"
+
+1610004281 source:c:\users\noemi\desktop\sputify\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Login.h"
+
+1610606313 source:c:\users\noemi\desktop\sputify\menu.c
+	"menu.h"
+
+1610014040 source:c:\users\noemi\desktop\sputify\users.c
+	"Users.h"
+

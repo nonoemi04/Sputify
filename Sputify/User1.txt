@@ -1,0 +1,12 @@
+  1		              Rock		   Californication		              RHCP
+  2		             Metal		         Hardwired		         Metallica
+  3		           Electro		          COPY.EXE		               MBR
+  4		              Rock		     Thunderstruck		             AC/DC
+  5		              Rock		    Spanzuratoarea		             Firma
+  6		             Opera		          Traviata		         GiuseppeV
+  7		             Metal		          Bismarck		           Sabaton
+  8		              Rock		              DARE		          Gorillaz
+  9		           Electro		             Rush!		        Turboslash
+ 10		               Rap		          Prometeu		               DOC
+ 11		              Jazz		             Moody		             Blues
+ 12		            Latino		              Just		            Monika
